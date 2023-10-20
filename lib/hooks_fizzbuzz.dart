@@ -19,6 +19,7 @@ class HooksFizzBuzzPage extends HookWidget {
     );
 
     return Scaffold(
+      appBar: AppBar(title: const Text('hooks page')),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,

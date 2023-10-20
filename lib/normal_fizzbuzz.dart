@@ -30,6 +30,7 @@ class _NormalFizzBuzzState extends State<NormalFizzBuzzPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(title: const Text('normal page')),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
