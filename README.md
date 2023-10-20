@@ -1,16 +1,15 @@
 # flutter_hooks_practice
 
-A new Flutter project.
+このリポジトリは、flutter_hooksを使用した場合の違いを確認するためのサンプルリポジトリです。
 
-## Getting Started
+## 起動方法
 
-This project is a starting point for a Flutter application.
+```shell
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## できること
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* カウントアップ機能
+* カウントリセット機能
