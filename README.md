@@ -13,3 +13,18 @@ flutter run
 
 * カウントアップ機能
 * カウントリセット機能
+
+
+## 確認済みプラットフォーム
+
+* Web(Google Chrome)
+
+
+## プレビュー
+
+
+
+https://github.com/Pregum/flutter_hooks_practice/assets/19755685/201976bc-a95f-4c84-8ac6-16a845e080b8
+
+
+
